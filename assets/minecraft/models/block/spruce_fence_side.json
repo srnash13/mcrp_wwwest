@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/srn/sn_three_beam_fence",
+  "textures": {
+    "texture": "minecraft:block/spruce_planks"
+  }
+}

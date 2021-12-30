@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/srn/sn_lattice_fence",
+  "textures": {
+    "texture": "minecraft:block/birch_planks"
+  }
+}
